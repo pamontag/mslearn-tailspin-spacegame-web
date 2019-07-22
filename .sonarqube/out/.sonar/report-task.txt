@@ -1,0 +1,7 @@
+organization=pamontag-spaceweb
+projectKey=space-game-web-433
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.27355
+dashboardUrl=https://sonarcloud.io/dashboard?id=space-game-web-433
+ceTaskId=AWwY_-m5SZgfma0eqX60
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWwY_-m5SZgfma0eqX60

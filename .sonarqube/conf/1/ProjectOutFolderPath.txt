@@ -1,0 +1,1 @@
+E:\DevOpsCourse\spacegame\mslearn-tailspin-spacegame-web\.sonarqube\out\1
